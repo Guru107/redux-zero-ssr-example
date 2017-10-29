@@ -15,6 +15,7 @@
     "webpack-dev-server": "2.9.3"
   },
   "dependencies": {
+    "express": "4.16.2",
     "react": "16.0.0",
     "react-dom": "16.0.0",
     "redux-zero": "4.2.1"
