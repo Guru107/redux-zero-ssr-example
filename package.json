@@ -1,0 +1,10 @@
+{
+  "name": "redux-zero-ssr-example",
+  "version": "1.0.0",
+  "description": "An SSR redux-zero app",
+  "main": "index.js",
+  "repository": "https://github.com/Guru107/redux-zero-ssr-example.git",
+  "author": "Gurudatt Kulkarni <guruak107@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
