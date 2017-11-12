@@ -6,5 +6,7 @@ module.exports = {
 	CLIENT: pathJoin(`src${sep}client`),
 	SERVER: pathJoin(`src${sep}server`),
 	SRC: pathJoin('src'),
-	APP: pathJoin(`src${sep}app`)
+	APP: pathJoin(`src${sep}app`),
+	PUBLIC: pathJoin(`public`),
+	SERVER_BUILD: pathJoin(`build`)
 }
