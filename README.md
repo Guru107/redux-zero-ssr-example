@@ -1,4 +1,8 @@
 # Redux Zero SSR Example
+
+[![dependencies Status](https://david-dm.org/Guru107/redux-zero-ssr-example/status.svg)](https://david-dm.org/Guru107/redux-zero-ssr-example)
+[![devDependencies Status](https://david-dm.org/Guru107/redux-zero-ssr-example/dev-status.svg)](https://david-dm.org/Guru107/redux-zero-ssr-example?type=dev)
+
 Check out [redux-zero](https://github.com/concretesolutions/redux-zero/): A lightweight state container based on Redux
 
 Send the initial state from the server
